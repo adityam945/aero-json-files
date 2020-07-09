@@ -1,21 +1,40 @@
 [
   {
-    "beanchname": "AERONAUTICAL ENGINEERING",
+    "branchname": "AERONAUTICAL ENGINEERING",
     "semdata": [
       {
         "id": "1234",
         "semname": "Semester 3",
         "labno": "2",
         "subjno": "6",
-        "subj1": "1.Engineering Mathematics-III",
-        "subj2": "2.Elements of Aeronautics",
-        "subj3": "3.Aerothermodynamics",
-        "subj4": "4.Mechanics of Materials",
-        "subj5": "5.Mechanics of Fluid",
-        "subj6": "6.Measurement and Metrology",
-        "labname1": "1.MEASUREMENT AND METROLOGY LAB",
-        "labname2": "2.MACHINE SHOP LAB",
-        "syllabusscreentype":"SyllabusFile",
+        "subdata": [
+          {
+            "subj": "1.Engineering Mathematics–III"
+          },
+          {
+            "subj": "2.Elements of Aeronautics"
+          },
+          {
+            "subj": "3.Aerothermodynamics"
+          },
+          {
+            "subj": "4.Mechanics of Materials"
+          },
+          {
+            "subj": "5.Mechanics of Fluid"
+          },
+          {
+            "subj": "6.Measurement and Metrology"
+          },
+          {
+            "subj": "1.MEASUREMENT AND METROLOGY LAB"
+          },
+          {
+            "subj": "2.MACHINE SHOP LAB"
+          }
+        ],
+
+        "syllabusscreentype": "SyllabusFile",
         "syllabusurl": "https://adityam945.github.io/aero-json-files/",
         "syllabusscreenparams": "aesem3subjlist.json",
         "notesscreentype": "NotesListSubjFile",
@@ -33,26 +52,44 @@
         "semname": "Semester 4",
         "labno": "2",
         "subjno": "6",
-        "subj1": "1.Engineering Mathematics-IV",
-        "subj2": "2.AERODYNAMICS-I",
-        "subj3": "3.AIRCRAFT PROPULSION",
-        "subj4": "4.MECHANISMS AND MACHINE THEORY",
-        "subj5": "5.AIRCRAFT MATERIAL SCIENCE",
-        "subj6": "6.TURBOMACHINES",
-        "labname1": "1.MATERIAL TESTING LAB/MEASUREMENT AND METROLOGY LAB",
-        "labname2": "2.COMPUTER AIDED AIRCRAFT DRAWING",
-        "syllabusscreentype":"SyllabusFile",
-        "syllabusurl":"https://adityam945.github.io/aero-json-files/",
-        "syllabusscreenparams":"aesem4subjlist.json",
+        "subdata": [
+          {
+            "subj": "1.Engineering Mathematics–IV"
+          },
+          {
+            "subj": "2.AERODYNAMICS-I"
+          },
+          {
+            "subj": "3.AIRCRAFT PROPULSION"
+          },
+          {
+            "subj": "4.MECHANISMS AND MACHINE THEORY"
+          },
+          {
+            "subj": "5.AIRCRAFT MATERIAL SCIENCE"
+          },
+          {
+            "subj": "6.TURBOMACHINES"
+          },
+          {
+            "subj": "1.MATERIAL TESTING LAB/MEASUREMENT AND METROLOGY LAB"
+          },
+          {
+            "subj": "2.COMPUTER AIDED AIRCRAFT DRAWING"
+          }
+        ],
+        "syllabusscreentype": "SyllabusFile",
+        "syllabusurl": "https://adityam945.github.io/aero-json-files/",
+        "syllabusscreenparams": "aesem4subjlist.json",
         "notesscreentype": "NotesListSubjFile",
         "notesurl": "https://adityam945.github.io/aero-json-files/",
         "notesscreenparams": "aesem4notes.json",
-        "qpscreentype":"QPaperListSubjsFile",
-        "qpurl":"https://adityam945.github.io/aero-json-files/",
-        "qpscreenparams":"",
-        "qbscreentype":"QBankListSubjsFile",
-        "qburl":"https://adityam945.github.io/aero-json-files/",
-        "qbscreenparams":""
+        "qpscreentype": "QPaperListSubjsFile",
+        "qpurl": "https://adityam945.github.io/aero-json-files/",
+        "qpscreenparams": "",
+        "qbscreentype": "QBankListSubjsFile",
+        "qburl": "https://adityam945.github.io/aero-json-files/",
+        "qbscreenparams": ""
       }
     ]
   }

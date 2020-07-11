@@ -1,0 +1,82 @@
+[
+    {
+      "semno": "Semester 5",
+      "branchname": "Aeronoutic Engineering",
+      "subjno": "12",
+      "labno": "2",
+      "screenname": "SubjectDetails",
+      "url": "https://adityam945.github.io/cse-json-files/",
+      "subjdata": [
+        {
+          "subj": "MANAGEMENT AND ENTREPRENEURSHIP",
+          "subjcode": "17AE51",
+          "subjparams": ""
+        },
+        {
+          "subj": "INTRODUCTION TO COMPOSITE MATERIALS",
+          "subjcode": "17AE52",
+          "subjparams": ""
+        },
+        {
+          "subj": "HEAT AND MASS TRANSFER",
+          "subjcode": "17AE53",
+          "subjparams": ""
+        },
+        {
+          "subj": "AIRCRAFT STRUCTURES-I",
+          "subjcode": "17AE54",
+          "subjparams": ""
+        },
+        {
+          "subj": "FUELS & COMBUSTION",
+          "subjcode": "17AE551",
+          "subjparams": ""
+        },
+        {
+          "subj": "GAS DYNAMICS",
+          "subjcode": "17AE552",
+          "subjparams": ""
+        },
+        {
+          "subj": "THEORY OF VIBRATIONS",
+          "subjcode": "17AE553",
+          "subjparams": ""
+        },
+        {
+          "subj": "AIRCRAFT ELECTRICAL SYSTEMS & INSTRUMENTATION",
+          "subjcode": "17AE554",
+          "subjparams": ""
+        },
+        {
+            "subj": "HISTORY OF FLIGHT & TECHNOLOGY FORECAST",
+            "subjcode": "17AE561",
+            "subjparams": ""
+          },
+          {
+            "subj": "ELEMENTS OF AERONAUTICS",
+            "subjcode": "17AE562",
+            "subjparams": ""
+          },
+          {
+            "subj": "AIRCRAFT TRANSPORTATION SYSTEMS",
+            "subjcode": "17AE563",
+            "subjparams": ""
+          },
+          {
+            "subj": "BASICS OF ROCKETS AND MISSILES",
+            "subjcode": "17AE564",
+            "subjparams": ""
+          },
+          {
+            "subj": "AERODYNAMICS LAB",
+            "subjcode": "17AEL57",
+            "subjparams": ""
+          },
+          {
+            "subj": "ENERGY CONVERSION & FLUID MECHANICS LAB",
+            "subjcode": "17AEL58",
+            "subjparams": ""
+          }
+      ]
+    }
+  ]

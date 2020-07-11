@@ -10,62 +10,62 @@
         {
           "subj": "MANAGEMENT AND ENTREPRENEURSHIP",
           "subjcode": "17AE51",
-          "subjparams": ""
+          "subjparams": "17ae51syllabus.json"
         },
         {
           "subj": "INTRODUCTION TO COMPOSITE MATERIALS",
           "subjcode": "17AE52",
-          "subjparams": ""
+          "subjparams": "17ae51syllabus.json"
         },
         {
           "subj": "HEAT AND MASS TRANSFER",
           "subjcode": "17AE53",
-          "subjparams": ""
+          "subjparams": "17ae51syllabus.json"
         },
         {
           "subj": "AIRCRAFT STRUCTURES-I",
           "subjcode": "17AE54",
-          "subjparams": ""
+          "subjparams": "17ae51syllabus.json"
         },
         {
           "subj": "FUELS & COMBUSTION",
           "subjcode": "17AE551",
-          "subjparams": ""
+          "subjparams": "17ae51syllabus.json"
         },
         {
           "subj": "GAS DYNAMICS",
           "subjcode": "17AE552",
-          "subjparams": ""
+          "subjparams": "17ae51syllabus.json"
         },
         {
           "subj": "THEORY OF VIBRATIONS",
           "subjcode": "17AE553",
-          "subjparams": ""
+          "subjparams": "17ae51syllabus.json"
         },
         {
           "subj": "AIRCRAFT ELECTRICAL SYSTEMS & INSTRUMENTATION",
           "subjcode": "17AE554",
-          "subjparams": ""
+          "subjparams": "17ae51syllabus.json"
         },
         {
             "subj": "HISTORY OF FLIGHT & TECHNOLOGY FORECAST",
             "subjcode": "17AE561",
-            "subjparams": ""
+            "subjparams": "17ae51syllabus.json"
           },
           {
             "subj": "ELEMENTS OF AERONAUTICS",
             "subjcode": "17AE562",
-            "subjparams": ""
+            "subjparams": "17ae51syllabus.json"
           },
           {
             "subj": "AIRCRAFT TRANSPORTATION SYSTEMS",
             "subjcode": "17AE563",
-            "subjparams": ""
+            "subjparams": "17ae51syllabus.json"
           },
           {
             "subj": "BASICS OF ROCKETS AND MISSILES",
             "subjcode": "17AE564",
-            "subjparams": ""
+            "subjparams": "17ae51syllabus.json"
           },
           {
             "subj": "AERODYNAMICS LAB",

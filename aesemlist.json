@@ -90,6 +90,70 @@
         "qbscreentype": "QBankListSubjsFile",
         "qburl": "https://adityam945.github.io/aero-json-files/",
         "qbscreenparams": ""
+      },
+      {
+        "id": "1990",
+        "disabled": "disabled",
+        "semname": "Semester 5",
+        "labno": "2",
+        "subjno": "12",
+        "subdata": [
+          {
+            "subj": "1.MANAGEMENT AND ENTREPRENEURSHIP"
+          },
+          {
+            "subj": "2.INTRODUCTION TO COMPOSITE MATERIALS"
+          },
+          {
+            "subj": "3.HEAT AND MASS TRANSFER"
+          },
+          {
+            "subj": "4.AIRCRAFT STRUCTURES-I"
+          },
+          {
+            "subj": "5. FUELS & COMBUSTION"
+          },
+          {
+            "subj": "6.GAS DYNAMICS"
+          },
+          {
+            "subj": "7.THEORY OF VIBRATIONS"
+          },
+          {
+            "subj": "8.AIRCRAFT ELECTRICAL SYSTEMS & INSTRUMENTATION"
+          },
+          {
+            "subj": "9.HISTORY OF FLIGHT & TECHNOLOGY FORECAST"
+          },
+          {
+            "subj": "10.ELEMENTS OF AERONAUTICS"
+          },
+          {
+            "subj": "11.AIRCRAFT TRANSPORTATION SYSTEMS"
+          },
+          {
+            "subj": "12.BASICS OF ROCKETS AND MISSILES"
+          },
+          {
+            "subj": "1.AERODYNAMICS LAB"
+          },
+          {
+            "subj": "2.ENERGY CONVERSION & FLUID MECHANICS LAB"
+          }
+        ],
+
+        "syllabusscreentype": "SyllabusFile",
+        "syllabusurl": "https://adityam945.github.io/mech-json-files/",
+        "syllabusscreenparams": "mechsem3subjlist.json",
+        "notesscreentype": "NotesListSubjFile",
+        "notesurl": "https://adityam945.github.io/mech-json-files/",
+        "notesscreenparams": "mechsem3notes.json",
+        "qpscreentype": "QPaperListSubjsFile",
+        "qpurl": "https://adityam945.github.io/mech-json-files/",
+        "qpscreenparams": "",
+        "qbscreentype": "QBankListSubjsFile",
+        "qburl": "https://adityam945.github.io/mech-json-files/",
+        "qbscreenparams": ""
       }
     ]
   }

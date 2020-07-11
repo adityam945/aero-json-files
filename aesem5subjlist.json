@@ -30,22 +30,22 @@
         {
           "subj": "FUELS & COMBUSTION",
           "subjcode": "17AE551",
-          "subjparams": "17ae51syllabus.json"
+          "subjparams": "17ae551syllabus.json"
         },
         {
           "subj": "GAS DYNAMICS",
           "subjcode": "17AE552",
-          "subjparams": "17ae51syllabus.json"
+          "subjparams": "17ae551syllabus.json"
         },
         {
           "subj": "THEORY OF VIBRATIONS",
           "subjcode": "17AE553",
-          "subjparams": "17ae51syllabus.json"
+          "subjparams": "17ae551syllabus.json"
         },
         {
           "subj": "AIRCRAFT ELECTRICAL SYSTEMS & INSTRUMENTATION",
           "subjcode": "17AE554",
-          "subjparams": "17ae51syllabus.json"
+          "subjparams": "17ae551syllabus.json"
         },
         {
             "subj": "HISTORY OF FLIGHT & TECHNOLOGY FORECAST",

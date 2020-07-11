@@ -143,16 +143,16 @@
         ],
 
         "syllabusscreentype": "SyllabusFile",
-        "syllabusurl": "https://adityam945.github.io/mech-json-files/",
-        "syllabusscreenparams": "mechsem3subjlist.json",
+        "syllabusurl": "https://adityam945.github.io/aero-json-files/",
+        "syllabusscreenparams": "aesem5subjlist.json",
         "notesscreentype": "NotesListSubjFile",
-        "notesurl": "https://adityam945.github.io/mech-json-files/",
-        "notesscreenparams": "mechsem3notes.json",
+        "notesurl": "https://adityam945.github.io/aero-json-files/",
+        "notesscreenparams": "aesem3notes.json",
         "qpscreentype": "QPaperListSubjsFile",
-        "qpurl": "https://adityam945.github.io/mech-json-files/",
+        "qpurl": "https://adityam945.github.io/aero-json-files/",
         "qpscreenparams": "",
         "qbscreentype": "QBankListSubjsFile",
-        "qburl": "https://adityam945.github.io/mech-json-files/",
+        "qburl": "https://adityam945.github.io/aero-json-files/",
         "qbscreenparams": ""
       }
     ]

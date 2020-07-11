@@ -35,37 +35,37 @@
         {
           "subj": "GAS DYNAMICS",
           "subjcode": "17AE552",
-          "subjparams": "17ae551syllabus.json"
+          "subjparams": "17ae552syllabus.json"
         },
         {
           "subj": "THEORY OF VIBRATIONS",
           "subjcode": "17AE553",
-          "subjparams": "17ae551syllabus.json"
+          "subjparams": "17ae553syllabus.json"
         },
         {
           "subj": "AIRCRAFT ELECTRICAL SYSTEMS & INSTRUMENTATION",
           "subjcode": "17AE554",
-          "subjparams": "17ae551syllabus.json"
+          "subjparams": "17ae554syllabus.json"
         },
         {
             "subj": "HISTORY OF FLIGHT & TECHNOLOGY FORECAST",
             "subjcode": "17AE561",
-            "subjparams": "17ae51syllabus.json"
+            "subjparams": "17ae561syllabus.json"
           },
           {
             "subj": "ELEMENTS OF AERONAUTICS",
             "subjcode": "17AE562",
-            "subjparams": "17ae51syllabus.json"
+            "subjparams": "17ae562syllabus.json"
           },
           {
             "subj": "AIRCRAFT TRANSPORTATION SYSTEMS",
             "subjcode": "17AE563",
-            "subjparams": "17ae51syllabus.json"
+            "subjparams": "17ae563syllabus.json"
           },
           {
             "subj": "BASICS OF ROCKETS AND MISSILES",
             "subjcode": "17AE564",
-            "subjparams": "17ae51syllabus.json"
+            "subjparams": "17ae564syllabus.json"
           },
           {
             "subj": "AERODYNAMICS LAB",

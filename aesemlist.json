@@ -1,9 +1,10 @@
 [
   {
-    "branchname": "AERONAUTICAL ENGINEERING",
+    "beanchname": "AERONOAUTICAL ENGINEERING",
     "semdata": [
       {
-        "id": "1234",
+        "id": "1890",
+        "disabled": "disabled",
         "semname": "Semester 3",
         "labno": "2",
         "subjno": "6",
@@ -32,6 +33,7 @@
           {
             "subj": "2.MACHINE SHOP LAB"
           }
+
         ],
 
         "syllabusscreentype": "SyllabusFile",
@@ -48,35 +50,37 @@
         "qbscreenparams": ""
       },
       {
-        "id": "1334",
+        "id": "2540",
+        "disabled": "disabled",
         "semname": "Semester 4",
         "labno": "2",
         "subjno": "6",
         "subdata": [
           {
-            "subj": "1.Engineering Mathematics–IV"
+            "subj": "1.Engineering Mathematics–4"
           },
           {
-            "subj": "2.AERODYNAMICS-I"
+            "subj": "2.Aerodynamics-I"
           },
           {
-            "subj": "3.AIRCRAFT PROPULSION"
+            "subj": "3.Aircraft Propulsion"
           },
           {
-            "subj": "4.MECHANISMS AND MACHINE THEORY"
+            "subj": "4.Mechanisms and Machine Theory"
           },
           {
-            "subj": "5.AIRCRAFT MATERIAL SCIENCE"
+            "subj": "5.Aircraft Material Science"
           },
           {
-            "subj": "6.TURBOMACHINES"
+            "subj": "6.Turbomachines"
           },
           {
-            "subj": "1.MATERIAL TESTING LAB/MEASUREMENT AND METROLOGY LAB"
+            "subj": "1.MEASUREMENT AND METROLOGY LAB"
           },
           {
             "subj": "2.COMPUTER AIDED AIRCRAFT DRAWING"
           }
+
         ],
         "syllabusscreentype": "SyllabusFile",
         "syllabusurl": "https://adityam945.github.io/aero-json-files/",
@@ -111,28 +115,34 @@
             "subj": "4.AIRCRAFT STRUCTURES-I"
           },
           {
-            "subj": "5. FUELS & COMBUSTION"
+            "subj": "PROFESSIONAL ELECTIVE-I"
           },
           {
-            "subj": "6.GAS DYNAMICS"
+            "subj": "i. FUELS & COMBUSTION"
           },
           {
-            "subj": "7.THEORY OF VIBRATIONS"
+            "subj": "ii.GAS DYNAMICS"
           },
           {
-            "subj": "8.AIRCRAFT ELECTRICAL SYSTEMS & INSTRUMENTATION"
+            "subj": "iii.THEORY OF VIBRATIONS"
           },
           {
-            "subj": "9.HISTORY OF FLIGHT & TECHNOLOGY FORECAST"
+            "subj": "iv.AIRCRAFT ELECTRICAL SYSTEMS & INSTRUMENTATION"
           },
           {
-            "subj": "10.ELEMENTS OF AERONAUTICS"
+            "subj": "OPEN ELECTIVE-2"
           },
           {
-            "subj": "11.AIRCRAFT TRANSPORTATION SYSTEMS"
+            "subj": "i.HISTORY OF FLIGHT & TECHNOLOGY FORECAST"
           },
           {
-            "subj": "12.BASICS OF ROCKETS AND MISSILES"
+            "subj": "ii.ELEMENTS OF AERONAUTICS"
+          },
+          {
+            "subj": "iii.AIRCRAFT TRANSPORTATION SYSTEMS"
+          },
+          {
+            "subj": "iv.BASICS OF ROCKETS AND MISSILES"
           },
           {
             "subj": "1.AERODYNAMICS LAB"
@@ -147,7 +157,186 @@
         "syllabusscreenparams": "aesem5subjlist.json",
         "notesscreentype": "NotesListSubjFile",
         "notesurl": "https://adityam945.github.io/aero-json-files/",
-        "notesscreenparams": "aesem3notes.json",
+        "notesscreenparams": "aesem5notes.json",
+        "qpscreentype": "QPaperListSubjsFile",
+        "qpurl": "https://adityam945.github.io/aero-json-files/",
+        "qpscreenparams": "",
+        "qbscreentype": "QBankListSubjsFile",
+        "qburl": "https://adityam945.github.io/aero-json-files/",
+        "qbscreenparams": ""
+      },
+      {
+        "id": "2290",
+        "disabled": "disabled",
+        "semname": "Semester 6",
+        "labno": "2",
+        "subjno": "12",
+        "subdata": [
+          {
+            "subj": "1.AERODYNAMICS-II"
+          },
+          {
+            "subj": "2.GAS TURBINE TECHNOLOGY"
+          },
+          {
+            "subj": "3.AIRCRAFT PERFORMANCE"
+          },
+          {
+            "subj": "4.AIRCRAFT STRUCTURES-II"
+          },
+          {
+            "subj": "PROFESSIONAL ELECTIVE-1"
+          },
+          {
+            "subj": "i.FINITE ELEMENT METHOD"
+          },
+          {
+            "subj": "ii.EXPERIMENTAL AERODYNAMICS"
+          },
+          {
+            "subj": "iii.SPACE MECHANICS"
+          },
+          {
+            "subj": "iv.EXPERIMENTAL STRESS ANALYSIS"
+          },
+          {
+            "subj": "OPEN ELECTIVE-2"
+          },
+          {
+            "subj": "i.UNMANNED AERIAL VEHICLES BASICS & APPLICATIONS"
+          },
+          {
+            "subj": "ii.FUNDAMENTALS OF AERODYNAMIC THEORY"
+          },
+          {
+            "subj": "iii.ELEMENTS OF JET PROPULSION SYSTEMS"
+          },
+          {
+            "subj": "iv.MAINTENANCE, OVERHAUL & REPAIR OF AIRCRAFT SYSTEMS"
+          },
+          {
+            "subj": "1.AIRCRAFT PROPULSION LAB"
+          },
+          {
+            "subj": "2.AIRCRAFT STRUCTURES LAB"
+          }
+        ],
+
+        "syllabusscreentype": "SyllabusFile",
+        "syllabusurl": "https://adityam945.github.io/aero-json-files/",
+        "syllabusscreenparams": "aesem6subjlist.json",
+        "notesscreentype": "NotesListSubjFile",
+        "notesurl": "https://adityam945.github.io/aero-json-files/",
+        "notesscreenparams": "aesem6notes.json",
+        "qpscreentype": "QPaperListSubjsFile",
+        "qpurl": "https://adityam945.github.io/aero-json-files/",
+        "qpscreenparams": "",
+        "qbscreentype": "QBankListSubjsFile",
+        "qburl": "https://adityam945.github.io/aero-json-files/",
+        "qbscreenparams": ""
+      },
+      {
+        "id": "9870",
+        "disabled": "disabled",
+        "semname": "Semester 7",
+        "labno": "2",
+        "subjno": "12",
+        "subdata": [
+          {
+            "subj": "1.CONTROL ENGINEERING"
+          },
+          {
+            "subj": "2.COMPUTATIONAL FLUID DYNAMICS"
+          },
+          {
+            "subj": "3.AIRCRAFT STABILITY AND CONTROL"
+          },
+          {
+            "subj": "PROFESSIONAL ELECTIVE-1"
+          },
+          {
+            "subj": "i.FATIGUE AND FRACTURE MECHANICS"
+          },
+          {
+            "subj": "ii.HIGH PERFORMANCE COMPUTING"
+          },
+          {
+            "subj": "iii.HELICOPTER DYNAMICS"
+          },
+          {
+            "subj": "iv.AERO-ELASTICITY"
+          },
+          {
+            "subj": "OPEN ELECTIVE-2"
+          },
+          {
+            "subj": "i.OPERATIONS RESEARCH"
+          },
+          {
+            "subj": "ii. WIND TUNNEL TECHNIQUES"
+          },
+          {
+            "subj": "iii.NUMERICAL METHODS"
+          },
+          {
+            "subj": "iv.GUIDANCE, NAVIGATION & CONTROL"
+          },
+          {
+            "subj": "1.FLIGHT SIMULATION LAB"
+          },
+          {
+            "subj": "2.MODELING AND ANALYSIS LAB "
+          }
+        ],
+
+        "syllabusscreentype": "SyllabusFile",
+        "syllabusurl": "https://adityam945.github.io/aero-json-files/",
+        "syllabusscreenparams": "aesem7subjlist.json",
+        "notesscreentype": "NotesListSubjFile",
+        "notesurl": "https://adityam945.github.io/aero-json-files/",
+        "notesscreenparams": "aesem7notes.json",
+        "qpscreentype": "QPaperListSubjsFile",
+        "qpurl": "https://adityam945.github.io/aero-json-files/",
+        "qpscreenparams": "",
+        "qbscreentype": "QBankListSubjsFile",
+        "qburl": "https://adityam945.github.io/aero-json-files/",
+        "qbscreenparams": ""
+      },
+      {
+        "id": "6570",
+        "disabled": "disabled",
+        "semname": "Semester 8",
+        "subjno": "6",
+        "subdata": [
+          {
+            "subj": "1.AVIONICS"
+          },
+          {
+            "subj": "2.FLIGHT VEHICLE DESIGN"
+          },
+          {
+            "subj": "PROFESSIONAL ELECTIVE-1"
+          },
+          {
+            "subj": "i.FLIGHT TESTING"
+          },
+          {
+            "subj": "ii.BOUNDARY LAYER THEORY"
+          },
+          {
+            "subj": "iii.OPTIMIZATION TECHNIQUES"
+          },
+          {
+            "subj": "iv.CRYOGENICS"
+          }
+        ],
+
+        "syllabusscreentype": "SyllabusFile",
+        "syllabusurl": "https://adityam945.github.io/aero-json-files/",
+        "syllabusscreenparams": "aesem8subjlist.json",
+        "notesscreentype": "NotesListSubjFile",
+        "notesurl": "https://adityam945.github.io/aero-json-files/",
+        "notesscreenparams": "aesem8notes.json",
         "qpscreentype": "QPaperListSubjsFile",
         "qpurl": "https://adityam945.github.io/aero-json-files/",
         "qpscreenparams": "",
@@ -155,6 +344,8 @@
         "qburl": "https://adityam945.github.io/aero-json-files/",
         "qbscreenparams": ""
       }
+
     ]
   }
+
 ]

@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "3836",
+    "subcode": "17AE753",
+    "subname": "NUMERICAL METHODS",
+    "m1": "Module 1",
+    "m1desc": "Numerical Computation : \nMotivation and Objectives/ Number Representation/ Machine Precision/ Round-of Error/ Truncation Error/ Random Number Generation. \n\nLinear Algebraic Systems: \nMotivation and Objectives/ Gauss-Jordan Elimination/Gaussian Elimination/LU Decomposition/ III- Conditioned Systems/ Iterative Methods.",
+    "m2": "Module 2",
+    "m2desc": "Interpolation and Approximation : \nLagrangian Polynomials - Divided differences Interpolating with a cubic spline - Newton's forward and backward difference formulas. \n\nEigen Values and Eigenvectors:  \nMotivation and Objectives/ The characteristics Polynominal/ Power Methods / Jacobi’s Method/ Householder Transformation/ QR Method/ Danilevsky’s Method/ Polynominal Roots.",
+    "m3": "Module 3",
+    "m3desc": "Numerical Differentiation and Integration:  \nDerivative from difference tables - Divided differences and finite differences - Numerical integration by trapezoidal and Simpson's 1/3 and 3/8 rules - Two and Three point Gaussian quadrature formulas - Double integrals using trapezoidal and Simpson's rules.",
+    "m4": "Module 4",
+    "m4desc": "Curve Fitting: \nMotivation and objectives/ Interpolation/ Newton’s Difference Formula/ Cubic Splines/ Least Square/ Two-Dimensional Interpolation. ",
+    "m5": "Module 5",
+    "m5desc": "Root Finding: \nMotivation and Objectives/ Bracketing methods/ Contraction Mapping Method/ Secant Method/ Muller’s Method/ Newton’s Method/ Polynomial Roots/ Nonlinear Systems of Equations.",
+    "descname": "Prescribed text books",
+    "descdata": "",
+    "notesurl": "https://adityam945.github.io/aero-json-files/",
+    "notesscreenname": "NotesListFile",
+    "notesscreenparams": "",
+    "qpscreentype": "QPaperListFile",
+    "qpurl": "https://adityam945.github.io/aero-json-files/",
+    "qpscreenparams": "",
+    "qbscreentype": "QBankListFile",
+    "qburl": "https://adityam945.github.io/aero-json-files/",
+    "qbscreenparams": ""
+  }
+]

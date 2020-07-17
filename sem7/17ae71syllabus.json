@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "0836",
+    "subcode": "17AE71",
+    "subname": "CONTROL ENGINEERING",
+    "m1": "Module 1",
+    "m1desc": "Introduction: \nConcept of controls, Open loop and closed loop systems with examples, Concepts of feedback and basic structure of feedback control system, requirements of an ideal control system. \n\nMathematical Models: \nTransfer function models of mechanical systems, electrical circuits, DC and AC motors in control systems, Analogous systems: Force voltage and Force current analogy.",
+    "m2": "Module 2",
+    "m2desc": "Block Diagrams and Signal Flow Graphs \nTransfer functions definition and its properties, block representation of control systems and terminologies, block diagram algebra and reduction of block diagrams, Signal flow graph method, Mason’s gain formula and its applications  \n\nTransient and Steady State Response Analysis: \nIntroduction, type and order of systems, time response specifications, first order and second order system response to step, ramp and impulse inputs, concepts of time constant and its importance in speed of response.",
+    "m3": "Module 3",
+    "m3desc": "Root Locus Plots: \nDefinition of root loci, General rules for constructing root loci, Analysis using root locus plots, Determination of desired gain, limit gain, gain margin and conditional stability. \n\nFrequency Response Analysis Using Bode Plots: \nBode attenuation diagrams for first and second order systems, Simplified Bode diagrams, Stability analysis using Bode plots and determination of phase margin and gain margin and gain.",
+    "m4": "Module 4",
+    "m4desc": "Specification: \nFrequency response definition, frequency response specifications and its relationship with time response specifications.  \n\nAnalysis: \nPolar plots, Nyquist stability criterion, Stability analysis, Relative stability concepts, Gain margin and phase margin, M&N circles.",
+    "m5": "Module 5",
+    "m5desc": "Feedback control systems: \nTypes of controllers – Proportional, Integral, Derivative controllers, Proportional – Integral, Proportional – Integral – Derivative controllers; Compensation methods – Series and feedback compensation, Lead, Lag and Lead-Lag Compensators. \n\nState Variable Characteristics of Linear Systems:  \nIntroduction to concepts of states and state variable representation of linear systems, Advantages and Disadvantages over conventional transfer function representation, state equations of linear continuous data system. Matrix representation of state equations, Solution of state equation, State transition matrix and its properties, controllability and observability, Kalman and Gilberts test.",
+    "descname": "Prescribed text books",
+    "descdata": "",
+    "notesurl": "https://adityam945.github.io/aero-json-files/",
+    "notesscreenname": "NotesListFile",
+    "notesscreenparams": "",
+    "qpscreentype": "QPaperListFile",
+    "qpurl": "https://adityam945.github.io/aero-json-files/",
+    "qpscreenparams": "",
+    "qbscreentype": "QBankListFile",
+    "qburl": "https://adityam945.github.io/aero-json-files/",
+    "qbscreenparams": ""
+  }
+]

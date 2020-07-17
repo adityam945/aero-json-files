@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "0866",
+    "subcode": "17AE741",
+    "subname": "FATIGUE AND FRACTURE MECHANICS",
+    "m1": "Module 1",
+    "m1desc": "Fatigue of Structures: \nS.N. curves, Endurance limit, Effect of mean stress, Goodman, Gerber and Soderberg relations and diagrams, Notches and stress concentrations, Neuber’s stress concentration factors, plastic stress concentration factors – Notched S-N curves. ",
+    "m2": "Module 2",
+    "m2desc": "Statistical Aspects of Fatigue Behaviour: \nLow cycle and high cycle fatigue, Coffin-Manson’s relation, Transition life, Cyclic Strain hardening and softening, Analysis of load histories, Cycle counting techniques, Cumulative damage, Miner’s theory, other theories.",
+    "m3": "Module 3",
+    "m3desc": "Physical Aspects of Fatigue: \nPhase in fatigue life, Crack initiation, Crack growth, Final fracture, Dislocations, Fatigue fracture surfaces.",
+    "m4": "Module 4",
+    "m4desc": "Fracture Mechanics: \nStrength of cracked bodies, potential energy and surface energy, Griffith’s theory, Irwin – Orwin extension of Griffith’s theory to ductile materials, Stress analysis of cracked bodies, Effect of thickness on fracture toughness, Stress intensity factors for typical geometries.",
+    "m5": "Module 5",
+    "m5desc": "Fatigue Design and Testing: \nSafe life and fail safe design philosophies, Importance of Fracture Mechanics in aerospace structure, Application to composite materials and structures.",
+    "descname": "Prescribed text books",
+    "descdata": "",
+    "notesurl": "https://adityam945.github.io/aero-json-files/",
+    "notesscreenname": "NotesListFile",
+    "notesscreenparams": "",
+    "qpscreentype": "QPaperListFile",
+    "qpurl": "https://adityam945.github.io/aero-json-files/",
+    "qpscreenparams": "",
+    "qbscreentype": "QBankListFile",
+    "qburl": "https://adityam945.github.io/aero-json-files/",
+    "qbscreenparams": ""
+  }
+]

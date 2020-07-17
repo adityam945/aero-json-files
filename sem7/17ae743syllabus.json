@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "0886",
+    "subcode": "17AE743",
+    "subname": "HELICOPTER DYNAMICS",
+    "m1": "Module 1",
+    "m1desc": "Introduction: \nHistory of helicopter flight. Fundamentals of Rotor Aerodynamics; Momentum theory analysis in hovering flight. Disk loading, power loading, thrust and power coefficients. Figure of merit, rotor solidity and blade loading coefficient. Power required in flight. Axial climb, descent, and autorotation.  \n\nBlade Element Analysis: \nBlade element analysis in hovering and forward flight. Rotating blade motion. Types of rotors. Concept of blade flapping, lagging and coning angle. Equilibrium about the flapping hinge, lead/lag hinge, and drag hinge.",
+    "m2": "Module 2",
+    "m2desc": "Basic Helicopter Performance: \nForces acting on helicopters in forward flight. Methods of achieving translatory flight. Controlling cyclic pitch: Swash-plate system. Lateral tilt with and without conning. Lateral and longitudinal asymmetry of lift in forward flight. Forward flight performance- total power required, effects of gross weight, effect of density altitude. Speed for minimum power, and speed for maximum range. Factors affecting forward speed, and ground effects.",
+    "m3": "Module 3",
+    "m3desc": "Rotor Airfoil Aerodynamics: \nRotor airfoil requirements, effects of Reynolds number and Mach number. Airfoil shape definition, Airfoil pressure distribution. Pitching moment. Maximum lift and stall characteristics, high angle of attack range.  \n\nRotor Wakes and Blade Tip Vortices: \nFlow visualization techniques, Characteristics of rotor wake in hover, and forward flight. Other characteristics of rotor wake.",
+    "m4": "Module 4",
+    "m4desc": "Helicopter Stability and Control: \nIntroductory concepts of stability. Forward speed disturbance, vertical speed disturbance, pitching angular velocity disturbance, side-slip disturbance, yawing disturbance. Static stability of helicopters: longitudinal, lateral-directional and directional. Dynamic stability aspects. Main rotor and tail rotor control. Flight and Ground Handling Qualities-General requirements and definitions. Control characteristics, Levels of handling qualities.",
+    "m5": "Module 5",
+    "m5desc": "Standards, and Specifications: \nScope of requirements. General and operational requirements. Military derivatives of civil rotorcraft. Structural strength and design for operation on specified surfaces. Rotorcraft vibration classification.  \n\nConceptual Design of Helicopters: \nOverall design requirements. Design of main rotors-rotor diameter, tip speed, rotor solidity, blade twist and aerofoil selection, Fuselage design, Empennage design, Design of tail rotors, High speed rotorcraft",
+    "descname": "Prescribed text books",
+    "descdata": "",
+    "notesurl": "https://adityam945.github.io/aero-json-files/",
+    "notesscreenname": "NotesListFile",
+    "notesscreenparams": "",
+    "qpscreentype": "QPaperListFile",
+    "qpurl": "https://adityam945.github.io/aero-json-files/",
+    "qpscreenparams": "",
+    "qbscreentype": "QBankListFile",
+    "qburl": "https://adityam945.github.io/aero-json-files/",
+    "qbscreenparams": ""
+  }
+]

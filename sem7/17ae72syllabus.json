@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "0846",
+    "subcode": "17AE72",
+    "subname": " COMPUTATIONAL FLUID DYNAMICS",
+    "m1": "Module 1",
+    "m1desc": "Introduction: \nCFD Applications. Need for Parallel Computers in CFD algorithms. Models of flows. Substantial derivative, Divergence of velocity. Continuity, Momentum, and Energy EquationsDerivation in various forms. Integral versus Differential form of equations. Comments on governing equations. Physical boundary conditions. Forms of equations especially suitable for CFD work. Shock capturing, and shock fitting.",
+    "m2": "Module 2",
+    "m2desc": "Mathematical Behaviour of Partial Differential Equations: \nClassification of partial differential equations. Cramer Rule and Eigen value methods for classification. Hyperbolic, parabolic, and elliptic forms of equations. Impact of classification on physical and computational fluid dynamics.\n\nCase studies:\nsteady inviscid supersonic flow, unsteady inviscid flow, steady boundary layer flow, and unsteady thermal conduction, steady subsonic inviscid flow.",
+    "m3": "Module 3",
+    "m3desc": "Grid Generation and Adaptive Grids: \nNeed for grid generation and Body-fitted coordinate system.  Structured Grids-essential features. Structured Grid generation techniques- algebraic and numerical methods. Unstructured Grids-essential features. Unstructured Grid generation techniques- Delaunay-Voronoi diagram, advancing front method. Surface grid generation, multiblock grid generation, and meshless methods. Grid quality and adaptive grids. Structured grids adaptive methods and unstructured grids adaptive methods.",
+    "m4": "Module 4",
+    "m4desc": "Discretisation & Transformation:  \nDiscretisation: \nFinite differences methods, and difference equations. Explicit and Implicit approaches.  Unsteady Problem -Explicit versus Implicit Scheme. Errors and stability analysis. Time marching and space marching. Reflection boundary condition. Relaxation techniques. Alternating direction implicit method. Successive over relaxation/under relaxation. Second order Lax-Wendroff method, mid-point Leap frog method, upwind scheme, numerical viscosity, and artificial viscosity. \n\nTransformation: Transformation of governing partial differential equations from physical domain to computational domain. Matrices and Jacobians of transformation. Example of transformation.  Generic form of the Governing flow equations in Strong Conservative form in the Transformed Space.",
+    "m5": "Module 5",
+    "m5desc": "Finite Volume Technique and Some Applications: \nSpatial discretisation- cell centered and cell vertex techniques (overlapping control volume, duel control volume). Temporal discretisation- Explicit time stepping, and implicit time stepping. Time step calculation. Upwind scheme and high resolution scheme. Flux vector splitting, approximate factorisation. Artificial dissipation and flux limiters. Unsteady flows and heat conduction problems. Upwind biasing.",
+    "descname": "Prescribed text books",
+    "descdata": "",
+    "notesurl": "https://adityam945.github.io/aero-json-files/",
+    "notesscreenname": "NotesListFile",
+    "notesscreenparams": "",
+    "qpscreentype": "QPaperListFile",
+    "qpurl": "https://adityam945.github.io/aero-json-files/",
+    "qpscreenparams": "",
+    "qbscreentype": "QBankListFile",
+    "qburl": "https://adityam945.github.io/aero-json-files/",
+    "qbscreenparams": ""
+  }
+]

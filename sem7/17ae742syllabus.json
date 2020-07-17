@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "0876",
+    "subcode": "17AE742",
+    "subname": "HIGH PERFORMANCE COMPUNTING",
+    "m1": "Module 1",
+    "m1desc": "Computational Science and Engineering Introduction:  \nComputational Science and Engineering Applications; characteristics and requirements, Review of Computational Complexity, Performance: metrics and measurements, Granularity and Partitioning, Locality: temporal/spatial/stream/kernel, Basic methods for parallel programming, Real-world case studies (drawn from multi-scale, multi-discipline applications)",
+    "m2": "Module 2",
+    "m2desc": "High-End Computer Systems: \nMemory Hierarchies, Multi-core Processors: Homogeneous and Heterogeneous, Shared-memory Symmetric Multiprocessors, Vector Computers, Distributed Memory Computers, Supercomputers and Petascale Systems, Application Accelerators / Reconfigurable Computing, Novel computers: Stream, multithreaded, and purpose-built.",
+    "m3": "Module 3",
+    "m3desc": "Parallel Algorithms: \nParallel models: ideal and real frameworks, Basic Techniques: Balanced Trees, Pointer Jumping, Divide and Conquer, Partitioning, Regular Algorithms: Matrix operations and Linear Algebra, Irregular Algorithms: Lists, Trees, Graphs, Randomization: Parallel Pseudo-Random Number Generators, Sorting, Monte Carlo techniques.",
+    "m4": "Module 4",
+    "m4desc": "Parallel Programming: \nRevealing concurrency in applications, Task and Functional Parallelism, Task Scheduling, Synchronization Methods, Parallel Primitives (collective operations), SPMD Programming (threads, Open MP, MPI), I/O and File Systems, Parallel Matlabs (Parallel Matlab, Star-P, Matlab MPI), Partitioning Global Address Space (PGAS) languages (UPC, Titanium, Global Arrays).",
+    "m5": "Module 5",
+    "m5desc": "Achieving Performance: \nMeasuring performance, identifying performance bottlenecks, Restructuring applications for deep memory hierarchies, Partitioning applications for heterogeneous resources, Using existing libraries, tools, and frameworks. ",
+    "descname": "Prescribed text books",
+    "descdata": "",
+    "notesurl": "https://adityam945.github.io/aero-json-files/",
+    "notesscreenname": "NotesListFile",
+    "notesscreenparams": "",
+    "qpscreentype": "QPaperListFile",
+    "qpurl": "https://adityam945.github.io/aero-json-files/",
+    "qpscreenparams": "",
+    "qbscreentype": "QBankListFile",
+    "qburl": "https://adityam945.github.io/aero-json-files/",
+    "qbscreenparams": ""
+  }
+]

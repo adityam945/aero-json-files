@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "7790",
+    "subcode": "17AE834",
+    "subname": "CRYOGENICS",
+    "m1": "Module 1",
+    "m1desc": "Introduction to Cryogenic Engineering: \nThermo physical and fluid dynamic properties of liquid and gas hydrogen, Thermo physical and fluid dynamic properties of liquid and gas helium, Liquefaction systems of hydrogen and helium gases, Liquefaction systems of hydrogen and helium gases, Refrigeration and liquefaction principals; Joule Thomson effect and inversion curve; Adiabatic and isenthalpic expansion with their comparison.",
+    "m2": "Module 2",
+    "m2desc": "Properties: \nCryogenic fluids, Solids at cryogenic temperatures; Superconductivity, Recuperative - Linde - Hampson, Claude, Cascade, Heylandt, Kapitza, Collins, Simon; Regenerative - Stirling cycle and refrigerator, Slovay refrigerator, Gifford-McMahon refrigerator, Vuilleumier refrigerator, Pulse Tube refrigerator; Liquefaction of natural gas.",
+    "m3": "Module 3",
+    "m3desc": "Cryogenic Insulation: \nVacuum insulation, Evacuated porous insulation, Gas filled Powders and fibrous materials, Solid foams, Multilayer insulation, Liquid and vapour Shields, Composite insulations.",
+    "m4": "Module 4",
+    "m4desc": "Storage and Instrumentation of Cryogenic liquids: \nDesign considerations of storage vessel; Dewar vessels; Industrial storage vessels; Storage of cryogenic fluids in space; Transfer systems and Lines for cryogenic liquids; Cryogenic valves in transfer lines; Two phase flow in Transfer system; Cool-down of storage and transfer systems, Measurement of strain, pressure, flow, liquid level and Temperature in cryogenic environment; Cryostats.",
+    "m5": "Module 5",
+    "m5desc": "Cryogenic Equipment: \nCryogenic heat exchangers - recuperative and regenerative; Variables affecting heat exchanger and system performance; Cryogenic compressors, Pumps, expanders; Turbo alternators; Effect of component inefficiencies; System Optimization, Magneto-caloric refrigerator; 3He-4He Dilution refrigerator; Cryopumping; Cryogenic Engineering applications in energy, aeronautics, space, industry, biology, preservation Application of Cryogenic Engineering in Transport.",
+    "descname": "Prescribed text books",
+    "descdata": "",
+    "notesurl": "",
+    "notesscreenname": "NotesListFile",
+    "notesscreenparams": "",
+    "qpscreentype": "QPaperListFile",
+    "qpurl": "",
+    "qpscreenparams": "",
+    "qbscreentype": "QBankListFile",
+    "qburl": "",
+    "qbscreenparams": ""
+  }
+]

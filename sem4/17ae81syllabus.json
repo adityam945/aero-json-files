@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "7338",
+    "subcode": "17AE81",
+    "subname": "AVIONICS",
+    "m1": "Module 1",
+    "m1desc": "Power Distribution System: \nBus Bar, split bus bar system, special purpose cables. Electrical diagram and identification scheme. Circuit controlling devices. Power utilization-typical application to avionics. Need for Avionics in civil and military aircraft.",
+    "m2": "Module 2",
+    "m2desc": "Inertial Navigation System: \nGyroscopic versus Inertial platform. Structure of stable platform. Inertial Navigation units. Inertial alignment. Inertial interface system. Importance of Compass swing. \n\nElectronic Flight Control System: \nFly-by-wire system: - basic concept and features. Pitch and Roll rate: - command and response. Control Laws.  Frequency response of a typical FBW actuator. Cooper Harper scale. Redundancy and failure survival. Common mode of failures and effects analysis.",
+    "m3": "Module 3",
+    "m3desc": "Electronic Flight Instrument Systems: \nDisplay -units, presentation, failure, and annunciation. Display of air data. \n\nIntroduction to Avionics Sub Systems and Electronic Circuits: \nTypical avionics subsystems. Amplifier, oscillator, aircraft communication system, transmitter, receiver, antenna.",
+    "m4": "Module 4",
+    "m4desc": "Principles of Digital Systems: \nDigital Computers, Microprocessors, Memories. \n\nFlight Deck and Cockpits: \nControl and display technologies CRT, LED, LCD, EL and plasma panel, Touch screen, Direct voice input (DVI) - Civil cockpit and military cockpit : MFDS, HUD, MFK, HOTAS.",
+    "m5": "Module 5",
+    "m5desc": "Avionics Systems Integration: \nAvionics equipment fit. Electrical data bus system. Communication Systems, Navigation systems, Flight control systems, Radar, Electronic Warfare, and fire control system. Avionics system architecture, Data buses, MIL–STD 1553 B.",
+    "descname": "Prescribed text books",
+    "descdata": "",
+    "notesurl": "",
+    "notesscreenname": "NotesListFile",
+    "notesscreenparams": "",
+    "qpscreentype": "QPaperListFile",
+    "qpurl": "",
+    "qpscreenparams": "",
+    "qbscreentype": "QBankListFile",
+    "qburl": "",
+    "qbscreenparams": ""
+  }
+]

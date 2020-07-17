@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "1836",
+    "subcode": "17AE751",
+    "subname": "OPERATIONS RESEARCH",
+    "m1": "Module 1",
+    "m1desc": "Introduction: \nEvolution of OR, definition of OR, scope of OR, application areas of OR, steps (phases) in OR study, characteristics and limitations of OR, models used in OR, linear programming (LP) problemformulation and solution by graphical method. \n\nSolution Of Linear Programming Problems: \nThe simplex method-canonical and standard form of an LP problem, slack, surplus and artificial variables, big M method and concept of duality, dual simplex method.",
+    "m2": "Module 2",
+    "m2desc": "Transportation Problem: \nFormulation of transportation problem, types, initial basic feasible solution using different methods, optimal solution by MODI method, degeneracy in transportation problems, application of transportation problem concept for maximization cases. Assignment Problem-formulation, types, application to maximization cases and travelling salesman problem.",
+    "m3": "Module 3",
+    "m3desc": "Integer Programming: \nPure and mixed integer programming problems, solution of Integer programming problems-Gomory’s all integer cutting plane method and mixed integer method, branch and bound method, ZeroOne programming. \n\nPert-CPM Techniques: \nIntroduction, network construction - rules, Fulkerson’s rule for numbering the events, AON and AOA diagrams; Critical path method to find the expected completion time of a project, floats; PERT for finding expected duration of an activity and project, determining the probability of completing a project, predicting the completion time of project; crashing of simple projects.",
+    "m4": "Module 4",
+    "m4desc": "Queuing Theory: \nQueuing systems and their characteristics, Pure-birth and Pure-death models (only equations), empirical queuing models – M/M/1 and M/M/C models and their steady state performance analysis. \n\nGame Theory: \nFormulation of games, types, solution of games with saddle point, graphical method of solving mixed strategy games, dominance rule for solving mixed strategy games.",
+    "m5": "Module 5",
+    "m5desc": "Sequencing: \nBasic assumptions, sequencing ‘n’ jobs on single machine using priority rules, sequencing using Johnson’s rule-‘n’ jobs on 2 machines, ‘n’ jobs on 3 machines, ‘n’ jobs on ‘m’ machines.",
+    "descname": "Prescribed text books",
+    "descdata": "",
+    "notesurl": "https://adityam945.github.io/aero-json-files/",
+    "notesscreenname": "NotesListFile",
+    "notesscreenparams": "",
+    "qpscreentype": "QPaperListFile",
+    "qpurl": "https://adityam945.github.io/aero-json-files/",
+    "qpscreenparams": "",
+    "qbscreentype": "QBankListFile",
+    "qburl": "https://adityam945.github.io/aero-json-files/",
+    "qbscreenparams": ""
+  }
+]

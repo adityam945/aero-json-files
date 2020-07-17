@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "0896",
+    "subcode": "17AE744",
+    "subname": "AEROELASTICITY",
+    "m1": "Module 1",
+    "m1desc": "Aeroelastic Phenomena: \nStability versus response problems, The aeroelastic triangle of forces, Aeroelasticity in Aircraft Design, Prevention of aeroelastic instabilities. Influence and stiffness coefficients. Flexure, torsional oscillations of beam, Differential equation of motion of beam.",
+    "m2": "Module 2",
+    "m2desc": "Divergence of a Lifting Surface: \nSimple two dimensional idealizations -Strip theory – Integral equation of the second kind – Exact solutions for simple rectangular wings – ‘Semi rigid’ assumption and approximate solutions – Generalized coordinates – Successive approximations – Numerical approximations using matrix equations.",
+    "m3": "Module 3",
+    "m3desc": "Steady State Aeroelastic Problems: \nLoss and reversal of aileron control – Critical aileron reversal speed – Aileron efficiency – Semi rigid theory and successive approximations – Lift distribution – Rigid and elastic wings. Tail efficiency. Effect of elastic deformation on static longitudinal stability.",
+    "m4": "Module 4",
+    "m4desc": "Flutter Phenomenon: \nNon-dimensional parameters – Stiffness criteria – Dynamic mass balancing – Dimensional similarity. Flutter analysis – Two dimensional thin airfoils in steady incompressible flow – Quasi steady aerodynamic derivatives. Galerkin method for critical flutter speed – Stability of disturbed motion – Solution of the flutter determinant – Methods of determining the critical flutter speeds – Flutter prevention and control.",
+    "m5": "Module 5",
+    "m5desc": "Examples of Aeroelastic Problems: \nGalloping of transmission lines and Flow induced vibrations of transmission lines, tall slender structures and suspension bridges.",
+    "descname": "Prescribed text books",
+    "descdata": "",
+    "notesurl": "https://adityam945.github.io/aero-json-files/",
+    "notesscreenname": "NotesListFile",
+    "notesscreenparams": "",
+    "qpscreentype": "QPaperListFile",
+    "qpurl": "https://adityam945.github.io/aero-json-files/",
+    "qpscreenparams": "",
+    "qbscreentype": "QBankListFile",
+    "qburl": "https://adityam945.github.io/aero-json-files/",
+    "qbscreenparams": ""
+  }
+]

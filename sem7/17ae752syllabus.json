@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "2836",
+    "subcode": "17AE752",
+    "subname": "WIND TUNNEL TECHNIQUES",
+    "m1": "Module 1",
+    "m1desc": "Principles Of Model Testing: \nBuckingham Theorem, Non dimensional numbers, Scale effect, Geometric Kinematic and Dynamic similarities.",
+    "m2": "Module 2",
+    "m2desc": "Types And Functions Of Wind Tunnels: \nClassification and types, special problems of testing in subsonic, transonic, supersonic and hypersonic speed regions, Layouts, sizing and design parameters.",
+    "m3": "Module 3",
+    "m3desc": "Calibration Of Wind Tunnels: \nTest section speed, Horizontal buoyancy, Flow angularities, Flow uniformity & turbulence measurements, Associated instrumentation, Calibration of subsonic & supersonic tunnels.",
+    "m4": "Module 4",
+    "m4desc": "Conventional Measurement Techniques: \nForce measurements and measuring systems, Multi component internal and external balances, Pressure measurement system, Steady and Unsteady Pressure, single and multiple measurements, Velocity measurements, Intrusive and Non-intrusive methods, Flow visualization techniques, surface flow, oil and tuft, flow field visualization, smoke and other optical and nonintrusive techniques. ",
+    "m5": "Module 5",
+    "m5desc": "Special Wind Tunnel Techniques: \nIntake tests, store carriage and separation tests, Unsteady force and pressure measurements, wind tunnel model design.",
+    "descname": "Prescribed text books",
+    "descdata": "",
+    "notesurl": "https://adityam945.github.io/aero-json-files/",
+    "notesscreenname": "NotesListFile",
+    "notesscreenparams": "",
+    "qpscreentype": "QPaperListFile",
+    "qpurl": "https://adityam945.github.io/aero-json-files/",
+    "qpscreenparams": "",
+    "qbscreentype": "QBankListFile",
+    "qburl": "https://adityam945.github.io/aero-json-files/",
+    "qbscreenparams": ""
+  }
+]

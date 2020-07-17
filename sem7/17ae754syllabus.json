@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "4836",
+    "subcode": "17AE754",
+    "subname": "GUIDANCE, NAVIGATION & CONTROL",
+    "m1": "Module 1",
+    "m1desc": "Introduction:  \nConcepts of navigation, guidance and control. Introduction to basic principles. Air data information.  \n\nRadar Systems: \nPrinciple of working of radar. MTI and Pulse Doppler radar. Moving target detector. Limitation of MTI performance. MTI from a moving platform (AMTI). ",
+    "m2": "Module 2",
+    "m2desc": "Tracking with Radar:  \nMono pulse tracking. Conical scan and sequential lobbing. Automatic tracking with surveillance radar (ADT). \n\nOther Guidance Systems: \nGyros and stabilized platforms. Inertial guidance and Laser based guidance. Components of Inertial Navigation System. Imaging Infrared guidance. Satellite navigation. GPS.",
+    "m3": "Module 3",
+    "m3desc": "Transfer Functions: \nInput-output Transfer function. Basic altitude reference. Concepts of Open loop and Close Loop.  \n\nMissile Control System:  \nGuided missile concept. Roll stabilization. Control of aerodynamic missile. Missile parameters for dynamic analysis. Missile autopilot schematics. Acceleration command and root locus.",
+    "m4": "Module 4",
+    "m4desc": "Missile Guidance: \nProportional navigation guidance; command guidance. Comparison of guidance system performance. Bank to turn missile guidance .",
+    "m5": "Module 5",
+    "m5desc": "Integrated Flight/Fire Control System:  \nDirector fire control system. Tracking control laws. Longitudinal flight control system. Lateral flight control system. Rate of change of Euler angle, Auto Pilot.",
+    "descname": "Prescribed text books",
+    "descdata": "",
+    "notesurl": "https://adityam945.github.io/aero-json-files/",
+    "notesscreenname": "NotesListFile",
+    "notesscreenparams": "",
+    "qpscreentype": "QPaperListFile",
+    "qpurl": "https://adityam945.github.io/aero-json-files/",
+    "qpscreenparams": "",
+    "qbscreentype": "QBankListFile",
+    "qburl": "https://adityam945.github.io/aero-json-files/",
+    "qbscreenparams": ""
+  }
+]

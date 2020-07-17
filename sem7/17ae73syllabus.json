@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "0856",
+    "subcode": "17AE73",
+    "subname": "AIRCRAFT STABILITY AND CONTROL",
+    "m1": "Module 1",
+    "m1desc": "Static Longitudinal Stability and Control-\nStick Fixed Historical perspective, Aerodynamic Nomenclature, Equilibrium conditions, Definition of static stability, Definition of longitudinal static stability, stability criteria, Contribution of airframe components: Wing contribution, Tail contribution, Fuselage contribution, Power effects- Propeller airplane and Jet airplane Introduction, Trim condition. Static margin. stick  fixed neutral points. Longitudinal control, Elevator power, Elevator angle versus equilibrium lift coefficient, Elevator required for landing, Restriction on forward C.G. range.",
+    "m2": "Module 2",
+    "m2desc": "Static Longitudinal Stability& Static Directional Stability and Control-Stick free:\nIntroduction, Hinge moment parameters, Control surface floating characteristics and aerodynamic balance, Estimation of hinge moment parameters, The trim tabs, Stick-free Neutral point, Stick force gradient in unaccelerated flight, Restriction on aft C.G. Introduction, Definition of directional stability, Static directional stability rudder fixed, Contribution of airframe components, Directional control. Rudder power, Stick-free directional stability, Requirements for directional control, Rudder lock, Dorsal fin. One engine inoperative condition. Weather cocking effect.",
+    "m3": "Module 3",
+    "m3desc": "Static lateral dynamic & longitudinal stability and control : \nIntroduction, definition of Roll stability. Estimation of dihedral effect., Effect of wing sweep, flaps, and power, Lateral control, Estimation of lateral control power, Aileron control forces, Balancing the aileron. Coupling between rolling and yawing moments. Adverse yaw effects. Aileron reversal. Definition of Dynamic longitudinal stability. Types of modes of motion: long or phugoid motion, short period motion. Airplane Equations of longitudinal motion.",
+    "m4": "Module 4",
+    "m4desc": "Estimation of Dynamic Derivatives :  \nDerivation of rigid body equations of motion, Orientation and position of the airplane, gravitational and thrust forces, Small disturbance theory. Aerodynamic force and moment representation, Derivatives due to change in forward speed, Derivatives due to the pitching velocity, Derivatives due to the time rate of change of angle of attack, Derivatives due to rolling rate, Derivatives due to yawing rate.",
+    "m5": "Module 5",
+    "m5desc": "Dynamic Lateral and Directional Stability :\nRouth’s criteria. Factors affecting period and damping of oscillations. Effect of wind shear. Flying qualities in pitch. Cooper-Harper Scale. Response to aileron step-function, sideslip excursion. Dutch roll and Spiral instability. Auto- rotation and spin. Stability derivatives for lateral and directional dynamics.",
+    "descname": "Prescribed text books",
+    "descdata": "",
+    "notesurl": "https://adityam945.github.io/aero-json-files/",
+    "notesscreenname": "NotesListFile",
+    "notesscreenparams": "",
+    "qpscreentype": "QPaperListFile",
+    "qpurl": "https://adityam945.github.io/aero-json-files/",
+    "qpscreenparams": "",
+    "qbscreentype": "QBankListFile",
+    "qburl": "https://adityam945.github.io/aero-json-files/",
+    "qbscreenparams": ""
+  }
+]

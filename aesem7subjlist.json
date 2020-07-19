@@ -1,0 +1,77 @@
+[
+  {
+    "semno": "Semester 7",
+    "branchname": "Aeronoutic Engineering",
+    "subjno": "11",
+    "labno": "2",
+    "screenname": "SubjectDetails",
+    "url": "https://adityam945.github.io/aero-json-files/",
+    "subjdata": [
+      {
+        "subj": "CONTROL ENGINEERING",
+        "subcode": "17AE71",
+        "subjparams": ""
+      },
+      {
+        "subj": "COMPUTATIONAL FLUID DYNAMICS",
+        "subcode": "17AE72",
+        "subjparams": ""
+      },
+      {
+        "subj": "AIRCRAFT STABILITY AND CONTROL",
+        "subcode": "17AE73",
+        "subjparams": ""
+      },
+      {
+        "subj": "FATIGUE AND FRACTURE MECHANICS",
+        "subcode": "17AE741",
+        "subjparams": ""
+      },
+      {
+        "subj": "HIGH PERFORMANCE COMPUNTING",
+        "subcode": "17AE742",
+        "subjparams": ""
+      },
+      {
+        "subj": "HELICOPTER DYNAMICS",
+        "subcode": "17AE743",
+        "subjparams": ""
+      },
+      {
+        "subj": "AEROELASTICITY",
+        "subcode": "17AE744",
+        "subjparams": ""
+      },
+      {
+        "subj": "OPERATIONS RESEARCH",
+        "subcode": "17AE751",
+        "subjparams": ""
+      },
+      {
+        "subj": "WIND TUNNEL TECHNIQUES",
+        "subcode": "17AE752",
+        "subjparams": ""
+      },
+      {
+        "subj": "NUMERICAL METHODS",
+        "subcode": "17AE753",
+        "subjparams": ""
+      },
+      {
+        "subj": "GUIDANCE, NAVIGATION & CONTROL",
+        "subcode": "17AE754",
+        "subjparams": ""
+      },
+      {
+        "subj": "FLIGHT SIMULATION LAB",
+        "subcode": "17AEL76",
+        "subjparams": ""
+      },
+      {
+        "subj": "MODELING AND ANALYSIS LAB",
+        "subcode": "17AEL77",
+        "subjparams": ""
+      }
+    ]
+  }
+]

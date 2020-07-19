@@ -1,0 +1,42 @@
+[
+  {
+    "semno": "Semester 8",
+    "branchname": "Aeronoutic Engineering",
+    "subjno": "6",
+    "labno": "2",
+    "screenname": "SubjectDetails",
+    "url": "https://adityam945.github.io/aero-json-files/",
+    "subjdata": [
+      {
+        "subj": "AVIONICS",
+        "subcode": "17AE81",
+        "subjparams": ""
+      },
+      {
+        "subj": "FLIGHT VEHICLE DESIGN",
+        "subcode": "17AE82",
+        "subjparams": ""
+      },
+      {
+        "subj": "FLIGHT TESTING",
+        "subcode": "17AE831",
+        "subjparams": ""
+      },
+      {
+        "subj": "BOUNDARY LAYER THEORY",
+        "subcode": "17AE832",
+        "subjparams": ""
+      },
+      {
+        "subj": "OPTIMIZATION TECHNIQUES",
+        "subcode": "17AE833",
+        "subjparams": ""
+      },
+      {
+        "subj": "CRYOGENICS",
+        "subcode": "17AE834",
+        "subjparams": ""
+      }
+    ]
+  }
+]

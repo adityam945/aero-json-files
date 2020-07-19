@@ -1,0 +1,82 @@
+[
+  {
+    "semno": "Semester 6",
+    "branchname": "Aeronoutic Engineering",
+    "subjno": "12",
+    "labno": "2",
+    "screenname": "SubjectDetails",
+    "url": "https://adityam945.github.io/aero-json-files/",
+    "subjdata": [
+      {
+        "subj": "AERODYNAMICS-II",
+        "subcode": "17AE61",
+        "subjparams": "17AE61.json"
+      },
+      {
+        "subj": "GAS TURBINE TECHNOLOGY",
+        "subcode": "17AE62",
+        "subjparams": "17AE62.json"
+      },
+      {
+        "subj": "AIRCRAFT PERFORMANCE",
+        "subcode": "17AE63",
+        "subjparams": "17AE63.json"
+      },
+      {
+        "subj": "AIRCRAFT STRUCTURES-II",
+        "subcode": "17AE64",
+        "subjparams": "17AE64.json"
+      },
+      {
+        "subj": "FINITE ELEMENT METHOD",
+        "subcode": "17AE651",
+        "subjparams": "17AE651.json"
+      },
+      {
+        "subj": "EXPERIMENTAL AERODYNAMICS",
+        "subcode": "17AE652",
+        "subjparams": "17AE652.json"
+      },
+      {
+        "subj": "SPACE MECHANICS",
+        "subcode": "17AE653",
+        "subjparams": "17AE653.json"
+      },
+      {
+        "subj": "EXPERIMENTAL STRESS ANALYSIS",
+        "subcode": "17AE654",
+        "subjparams": "17AE654.json"
+      },
+      {
+        "subj": "UNMANNED AERIAL VEHICLES BASICS & APPLICATIONS",
+        "subcode": "17AE661",
+        "subjparams": "17AE661.json"
+      },
+      {
+        "subj": "FUNDAMENTALS OF AERODYNAMIC THEORY",
+        "subcode": "17AE662",
+        "subjparams": "17AE662.json"
+      },
+      {
+        "subj": "ELEMENTS OF JET PROPULSION SYSTEMS",
+        "subcode": "17AE663",
+        "subjparams": "17AE663.json"
+      },
+      {
+        "subj": "MAINTENANCE, OVERHAUL & REPAIR OF AIRCRAFT SYSTEMS",
+        "subcode": "17AE664",
+        "subjparams": "17AE664.json"
+      },
+      {
+        "subj": "AIRCRAFT PROPULSION LAB",
+        "subcode": "17AEL67",
+        "subjparams": ""
+      },
+      {
+        "subj": "AIRCRAFT STRUCTURES LAB",
+        "subcode": "17AEL68",
+        "subjparams": ""
+      }
+    ]
+  }
+]

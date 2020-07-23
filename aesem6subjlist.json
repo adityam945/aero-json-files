@@ -10,62 +10,62 @@
       {
         "subj": "AERODYNAMICS-II",
         "subcode": "17AE61",
-        "subjparams": "17ae61syllabus.json"
+        "subjparams": "sem6/17ae61syllabus.json"
       },
       {
         "subj": "GAS TURBINE TECHNOLOGY",
         "subcode": "17AE62",
-        "subjparams": "17ae62syllabus.json"
+        "subjparams": "sem6/17ae62syllabus.json"
       },
       {
         "subj": "AIRCRAFT PERFORMANCE",
         "subcode": "17AE63",
-        "subjparams": "17ae63syllabus.json"
+        "subjparams": "sem6/17ae63syllabus.json"
       },
       {
         "subj": "AIRCRAFT STRUCTURES-II",
         "subcode": "17AE64",
-        "subjparams": "17ae64syllabus.json"
+        "subjparams": "sem6/17ae64syllabus.json"
       },
       {
         "subj": "FINITE ELEMENT METHOD",
         "subcode": "17AE651",
-        "subjparams": "17ae651syllabus.json"
+        "subjparams": "sem6/17ae651syllabus.json"
       },
       {
         "subj": "EXPERIMENTAL AERODYNAMICS",
         "subcode": "17AE652",
-        "subjparams": "17ae652syllabus.json"
+        "subjparams": "sem6/17ae652syllabus.json"
       },
       {
         "subj": "SPACE MECHANICS",
         "subcode": "17AE653",
-        "subjparams": "17ae653syllabus.json"
+        "subjparams": "sem6/17ae653syllabus.json"
       },
       {
         "subj": "EXPERIMENTAL STRESS ANALYSIS",
         "subcode": "17AE654",
-        "subjparams": "17ae654syllabus.json"
+        "subjparams": "sem6/17ae654syllabus.json"
       },
       {
         "subj": "UNMANNED AERIAL VEHICLES BASICS & APPLICATIONS",
         "subcode": "17AE661",
-        "subjparams": "17ae661syllabus.json"
+        "subjparams": "sem6/17ae661syllabus.json"
       },
       {
         "subj": "FUNDAMENTALS OF AERODYNAMIC THEORY",
         "subcode": "17AE662",
-        "subjparams": "17ae662syllabus.json"
+        "subjparams": "sem6/17ae662syllabus.json"
       },
       {
         "subj": "ELEMENTS OF JET PROPULSION SYSTEMS",
         "subcode": "17AE663",
-        "subjparams": "17ae663syllabus.json"
+        "subjparams": "sem6/17ae663syllabus.json"
       },
       {
         "subj": "MAINTENANCE, OVERHAUL & REPAIR OF AIRCRAFT SYSTEMS",
         "subcode": "17AE664",
-        "subjparams": "17ae664syllabus.json"
+        "subjparams": "sem6/17ae664syllabus.json"
       },
       {
         "subj": "AIRCRAFT PROPULSION LAB",

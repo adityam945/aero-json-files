@@ -10,57 +10,57 @@
       {
         "subj": "CONTROL ENGINEERING",
         "subcode": "17AE71",
-        "subjparams": ""
+        "subjparams": "sem7/17ae71syllabus.json"
       },
       {
         "subj": "COMPUTATIONAL FLUID DYNAMICS",
         "subcode": "17AE72",
-        "subjparams": ""
+        "subjparams": "sem7/17ae72syllabus.json"
       },
       {
         "subj": "AIRCRAFT STABILITY AND CONTROL",
         "subcode": "17AE73",
-        "subjparams": ""
+        "subjparams": "sem7/17ae73syllabus.json"
       },
       {
         "subj": "FATIGUE AND FRACTURE MECHANICS",
         "subcode": "17AE741",
-        "subjparams": ""
+        "subjparams": "sem7/17ae741syllabus.json"
       },
       {
         "subj": "HIGH PERFORMANCE COMPUNTING",
         "subcode": "17AE742",
-        "subjparams": ""
+        "subjparams": "sem7/17ae742syllabus.json"
       },
       {
         "subj": "HELICOPTER DYNAMICS",
         "subcode": "17AE743",
-        "subjparams": ""
+        "subjparams": "sem7/17ae743syllaus.json"
       },
       {
         "subj": "AEROELASTICITY",
         "subcode": "17AE744",
-        "subjparams": ""
+        "subjparams": "sem7/17ae744syllabus.json"
       },
       {
         "subj": "OPERATIONS RESEARCH",
         "subcode": "17AE751",
-        "subjparams": ""
+        "subjparams": "sem7/17ae751syllabus.json"
       },
       {
         "subj": "WIND TUNNEL TECHNIQUES",
         "subcode": "17AE752",
-        "subjparams": ""
+        "subjparams": "sem7/17ae752syllabus.json"
       },
       {
         "subj": "NUMERICAL METHODS",
         "subcode": "17AE753",
-        "subjparams": ""
+        "subjparams": "sem7/17ae753syllabus.json"
       },
       {
         "subj": "GUIDANCE, NAVIGATION & CONTROL",
         "subcode": "17AE754",
-        "subjparams": ""
+        "subjparams": "sem7/17ae754syllabus.json"
       },
       {
         "subj": "FLIGHT SIMULATION LAB",

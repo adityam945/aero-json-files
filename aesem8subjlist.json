@@ -10,32 +10,32 @@
       {
         "subj": "AVIONICS",
         "subcode": "17AE81",
-        "subjparams": ""
+        "subjparams": "sem8/17ae81syllabus.json"
       },
       {
         "subj": "FLIGHT VEHICLE DESIGN",
         "subcode": "17AE82",
-        "subjparams": ""
+        "subjparams": "sem8/17ae82syllabus.json"
       },
       {
         "subj": "FLIGHT TESTING",
         "subcode": "17AE831",
-        "subjparams": ""
+        "subjparams": "sem8/17ae831syllabus.json"
       },
       {
         "subj": "BOUNDARY LAYER THEORY",
         "subcode": "17AE832",
-        "subjparams": ""
+        "subjparams": "sem8/17ae832syllabus.json"
       },
       {
         "subj": "OPTIMIZATION TECHNIQUES",
         "subcode": "17AE833",
-        "subjparams": ""
+        "subjparams": "sem8/17ae833syllabus.json"
       },
       {
         "subj": "CRYOGENICS",
         "subcode": "17AE834",
-        "subjparams": ""
+        "subjparams": "sem8/17ae834syllabus.json"
       }
     ]
   }

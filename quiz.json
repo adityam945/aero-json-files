@@ -23,45 +23,13 @@
      ]
    },
    {
-    "qId": "11",
+    "qId": "1",
     "questionText": "What is the capital of France?",
     "answerOptions": [
       { "answerText": "New York", "isCorrect": false },
       { "answerText": "London", "isCorrect": false },
       { "answerText": "Paris", "isCorrect": true },
       { "answerText": "Dublin", "isCorrect": false }
-    ]
-  },
-  
-  {
-    "qId": "12",
-    "questionText": "How many Harry Potter books are there?",
-    "answerOptions": [
-      { "answerText": "1", "isCorrect": false },
-      { "answerText": "4", "isCorrect": false },
-      { "answerText": "6", "isCorrect": false },
-      { "answerText": "7", "isCorrect": true }
-    ]
-  },
-  {
-    "qId": "11",
-    "questionText": "What is the capital of France?",
-    "answerOptions": [
-      { "answerText": "New York", "isCorrect": false },
-      { "answerText": "London", "isCorrect": false },
-      { "answerText": "Paris", "isCorrect": true },
-      { "answerText": "Dublin", "isCorrect": false }
-    ]
-  },
-  
-  {
-    "qId": "12",
-    "questionText": "How many Harry Potter books are there?",
-    "answerOptions": [
-      { "answerText": "1", "isCorrect": false },
-      { "answerText": "4", "isCorrect": false },
-      { "answerText": "6", "isCorrect": false },
-      { "answerText": "7", "isCorrect": true }
     ]
   }
 ],

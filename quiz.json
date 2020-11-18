@@ -1,85 +1,325 @@
 {
-    "id": "dfcgfvhgbhjnjkna567617899",
- "easyQusetions": [
-   {
-     "qId": "1",
-     "questionText": "What is the capital of France?",
-     "rightAns": "Paris",
-     "answerOptions": [
-       { "answerText": "New York", "isCorrect": false },
-       { "answerText": "London", "isCorrect": false },
-       { "answerText": "Paris", "isCorrect": true },
-       { "answerText": "Dublin", "isCorrect": false }
-     ]
-   },
-   
-   {
-     "qId": "2",
-     "questionText": "How many Harry Potter books are there?",
-     "rightAns": "7",
-
-     "answerOptions": [
-       { "answerText": "1", "isCorrect": false },
-       { "answerText": "4", "isCorrect": false },
-       { "answerText": "6", "isCorrect": false },
-       { "answerText": "7", "isCorrect": true }
-     ]
-   },
-   {
-    "qId": "1",
-    "questionText": "What is the capital of France?",
-    "answerOptions": [
-      { "answerText": "New York", "isCorrect": false },
-      { "answerText": "London", "isCorrect": false },
-      { "answerText": "Paris", "isCorrect": true },
-      { "answerText": "Dublin", "isCorrect": false }
-    ]
-  }
-],
-"moderateQurstions": [
-   {
-     "qId": "11",
-     "questionText": "What is the capital of France?",
-     "answerOptions": [
-       { "answerText": "New York", "isCorrect": false },
-       { "answerText": "London", "isCorrect": false },
-       { "answerText": "Paris", "isCorrect": true },
-       { "answerText": "Dublin", "isCorrect": false }
-     ]
-   },
-   
-   {
-     "qId": "12",
-     "questionText": "How many Harry Potter books are there?",
-     "answerOptions": [
-       { "answerText": "1", "isCorrect": false },
-       { "answerText": "4", "isCorrect": false },
-       { "answerText": "6", "isCorrect": false },
-       { "answerText": "7", "isCorrect": true }
-     ]
-   }
-],
-"hardQuestions": [
-   {
-     "qId": "21",
-     "questionText": "What is the capital of France?",
-     "answerOptions": [
-       { "answerText": "New York", "isCorrect": false },
-       { "answerText": "London", "isCorrect": false },
-       { "answerText": "Paris", "isCorrect": true },
-       { "answerText": "Dublin", "isCorrect": false }
-     ]
-   },
-   
-   {
-     "qId": "22",
-     "questionText": "How many Harry Potter books are there?",
-     "answerOptions": [
-       { "answerText": "1", "isCorrect": false },
-       { "answerText": "4", "isCorrect": false },
-       { "answerText": "6", "isCorrect": false },
-       { "answerText": "7", "isCorrect": true }
-     ]
-   }
-]
+    "_id": "5fb5459b446fac0424413de0",
+    "moderateQuestions": [
+        {
+            "questionText": "Nibble is the series of ……………… bits.",
+            "answerOptions": [
+                {
+                    "answerText": "2",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "4",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": "8",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "12",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "questionText": "Consider the following statements: 1. A compiler is a computer program that transforms source code written in a programming language into a machine-code or lower-level form. 2. A compiler describes and explains in simpler language to make user’s work easy. Choose the correct answer from the codes given below:",
+            "answerOptions": [
+                {
+                    "answerText": "Both",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": "only 1",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "only 2",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "none",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "questionText": "Which among the following defines rules that all computers must follow to communicate with each other on the internet?",
+            "answerOptions": [
+                {
+                    "answerText": "FTP",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "HTTP",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "HTML",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "TCP",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "questionText": "Which among the following was the first computer virus?",
+            "answerOptions": [
+                {
+                    "answerText": "Melissa",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "Elk",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": "Conficker",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "I Love you",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "questionText": "Which among the following services is not provided by the internet?",
+            "answerOptions": [
+                {
+                    "answerText": "Delivering Nike shoe",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": "Money transfer",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "Making friendship",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "Booking of movie ticket",
+                    "isCorrect": false
+                }
+            ]
+        }
+    ],
+    "easyQuestions": [
+        {
+            "questionText": "The Third Generation Computer used …",
+            "answerOptions": [
+                {
+                    "answerText": " Transistors",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "Integrated circuit",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": "Vacuum tube",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": " Chip",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "questionText": "Who among the following has developed the Perl programing language?",
+            "answerOptions": [
+                {
+                    "answerText": "Larry Wall",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": "Guido van Rossum",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "Joe Armstrong",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": " Yukihiro Matsumoto",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "questionText": "Which among the following is the shortcut key to open a new window?",
+            "answerOptions": [
+                {
+                    "answerText": "Shift + N",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "Alt + N",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "Alt + F5",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "Ctrl + N",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "questionText": "The information stored in a computer is known as …",
+            "answerOptions": [
+                {
+                    "answerText": "Facts",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": " Data",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": "Directory or repository",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "Files",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "questionText": " Which among the following works faster?",
+            "answerOptions": [
+                {
+                    "answerText": "RAM",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": "ROM",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "Processor",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "FlashDrive",
+                    "isCorrect": false
+                }
+            ]
+        }
+    ],
+    "hardQuestions": [
+        {
+            "questionText": " Which among the following is/are required to make a computer usable for a common person?",
+            "answerOptions": [
+                {
+                    "answerText": " A computer system with well-connected hardware",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "A computer system with required hardware and software",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": "A computer system with scanner",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "A computer system with web cam",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "questionText": "If you restart your computer by switching it off (i.e. power cut), it is known as …",
+            "answerOptions": [
+                {
+                    "answerText": "Cold boot",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": " Warm boot",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "Soft boot",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "Boot",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "questionText": "Which among the following is incorrectly matched?",
+            "answerOptions": [
+                {
+                    "answerText": "ALGOL-Algorithmic Language",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "COMAL-Common Algorithmic Language",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "APL-A Programing Language",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": " SQL-Simply Qualified Language",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "questionText": "Which among the following is the shortcut key to full screen the active window (basically web browser) in your computer system?",
+            "answerOptions": [
+                {
+                    "answerText": "F5",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": " F11",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": " F10",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": " Ctrl + L",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "questionText": "Which among the following is the shortcut key to search a file or folder in your computer system?",
+            "answerOptions": [
+                {
+                    "answerText": "F3",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": " F10",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "F6",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "F1",
+                    "isCorrect": false
+                }
+            ]
+        }
+    ],
+    "quizName": "Basics of Computer Science"
 }
